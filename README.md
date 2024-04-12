@@ -1,4 +1,4 @@
-DjangoProjectDjangoProject is a web application developed using the Django framework, a high-level Python web framework that encourages rapid development and clean, pragmatic design.
+Django is a web application developed using the Django framework, a high-level Python web framework that encourages rapid development and clean, pragmatic design.
 
 This project utilizes Django's powerful Object-Relational Mapping (ORM) system, which allows developers to define database models using Python classes. These models represent database tables, and their fields are converted into database columns. With the Django ORM, developers can perform database operations such as querying, inserting, updating, and deleting records using Python code, without writing raw SQL queries.
 
